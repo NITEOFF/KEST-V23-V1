@@ -52,6 +52,7 @@ In our computer - APII500 Power Supply ATX 500W
 
 # 6. CASE
 # ————————
+Our computer case - Sharkoon
 
 
 # 7. SSD
