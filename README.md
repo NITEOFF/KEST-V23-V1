@@ -40,14 +40,14 @@ Your computers system. Such as change the fan speed or how much power the rams u
 # ————————
 RAM stands for random-access memory,Computer RAM is essentially short term memory where data is stored as the processor needs it. This isn't to be confused with long-term data that's stored on your hard drive, which stays there even when your computer is turned off.
 
-In our computer is G.Skill 8GB DDR3-1600, 8 GB, DDR3, 1600 MHz X2
+In our computer - G.Skill 8GB DDR3-1600, 8 GB, DDR3, 1600 MHz X2
 
 
 # 5 POWER
 # ————————
 A power supply unit PSU converts mains AC to low-voltage regulated DC power for the internal components of a computer. Modern personal computers universally use switched-mode power supplies. Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the mains voltage.
 
-In our computer is APII500 Power Supply ATX 500W
+In our computer - APII500 Power Supply ATX 500W
 
 
 # 6. CASE
@@ -56,3 +56,6 @@ In our computer is APII500 Power Supply ATX 500W
 
 # 7. SSD
 # ————————
+Solid-state drives (SSDs) are the most common storage drives today. SSDs are smaller and faster than hard disk drives (HDDs). SSDs are noiseless and allow PCs to be thinner and more lightweight. Hard disk drives (HDDs) are more common in older devices.
+
+In our computer - Crucial m4 64GB 2.5-Inch (7mm) SATA 6Gb/s Solid State Drive CT064M4SSD1
