@@ -38,6 +38,9 @@ Your computers system. Such as change the fan speed or how much power the rams u
 
 # 4. RAM
 # ————————
+RAM stands for random-access memory,Computer RAM is essentially short term memory where data is stored as the processor needs it. This isn't to be confused with long-term data that's stored on your hard drive, which stays there even when your computer is turned off.
+
+In our computer is G.Skill 8GB DDR3-1600, 8 GB, DDR3, 1600 MHz X2
 
 
 # 5 POWER
