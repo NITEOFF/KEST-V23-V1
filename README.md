@@ -34,6 +34,7 @@ Your computers system. Such as change the fan speed or how much power the rams u
 
 # 3. GPU
 # ————————
+None
 
 
 # 4. RAM
