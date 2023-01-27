@@ -45,6 +45,9 @@ In our computer is G.Skill 8GB DDR3-1600, 8 GB, DDR3, 1600 MHz X2
 
 # 5 POWER
 # ————————
+A power supply unit PSU converts mains AC to low-voltage regulated DC power for the internal components of a computer. Modern personal computers universally use switched-mode power supplies. Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the mains voltage.
+
+In our computer is APII500 Power Supply ATX 500W
 
 
 # 6. CASE
