@@ -25,7 +25,7 @@ There is much more.
 BIOS IS Short for Basic Input/Output System,
 
 The BIOS is a ROM chip on the motherboard that lets you access and setup
-Your computers system. Such as change the fan speed or how much power the rams uses and more.
+Your computers system. Such as change the fan speed or how much power the ram uses and more.
 
 
 # 2. CPU
@@ -33,7 +33,7 @@ Your computers system. Such as change the fan speed or how much power the rams u
 -central processing unit-
 
 The cpu is the 'Brain' of the computer.
-it alows you to run software and OS - operating systems.
+it allows you to run software and OS - operating systems.
 
 
 # 3. GPU
