@@ -66,3 +66,7 @@ Solid-state drives (SSDs) are the most common storage drives today. SSDs are sma
 
 In our computer - Crucial m4 64GB 2.5-Inch (7mm) SATA 6Gb/s Solid State Drive CT064M4SSD1
 
+![kest_snurur](https://user-images.githubusercontent.com/101139768/216580581-99deaa1c-c675-4db4-af23-de59f9fac634.jpg)
+
+
+
