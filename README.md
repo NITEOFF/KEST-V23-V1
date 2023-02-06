@@ -30,6 +30,7 @@ Your computers system. Such as change the fan speed or how much power the ram us
 
 # 2. CPU
 # ————————
+Type (Intel Pentium G3260)
 -central processing unit-
 
 The cpu is the 'Brain' of the computer.
